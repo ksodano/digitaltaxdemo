@@ -1,0 +1,43 @@
+PESEL,imię,drugie imię,nazwisko,data ur,kraj,województwo,powiat,gmina,miejscowość,ulica,nr domu,nr lokalu,kod pocztowy
+12345678910,Jan,Euzebiusz,Nowak,12/15/2001,Polska,mazowieckie,legionowski,legionowo,legionowo,warszawska,1,2,01-141
+01424578910,Jak,Jan,Kowalc,12/15/2001,Polska,mazowieckie,warszawski zachodni,lesznowola,Legirkawo,Waszanka,1,2,01-191
+10987654321,Anna,Genowefa,Nowak-Kowalska,1/1/2002,Polska,mazowieckie,legionowski,legionowo,legionowo,serocka,14,1,01-101
+02414143210,Ałła,Tatiena,Kowak-Ilonalika,1/1/2002,Polska,mazowieckie,warszawski-zachodni,lesznowola,Leglokowo,Sanocka,19,1,81-101
+61452402586,Zuzanna,Joanna,Malinowska,5/24/1962,Polska,Mazowieckie,m.st. Warszawa,Warszawa,Warszawa,Głębocka,33,116,02-566
+62454582580,Zuzanna,Regina,Halinowska,5/25/1962,Polska,Mazowieckie,m.st. Warszawa,Warszawa,Warszawa,Człębolka,33,116,82-366
+79305896172,Tomasz,Piotr,Kurkowicki,10/5/1979,Polska,mazowieckie,m.st. Warszawa,Warszawa,Warszawa,Lazurowa,5,12,01-420
+99404896172,Jonasz,Paweł,Kurkowicki,11/15/1999,Polska,mazowieckie,m.st. Warszawa,Warszawa,Warszawa,Laserowa,4,12,01-420
+23151218161,Dariusz,Bożydar,Bożyk,12/23/1923,Królewstwo Niderlandów,,,,Hondurina,Bylejaka,8,6,09-089
+13424218181,Mariusz,Bednar,Borzym,12/13/1923,Polska,Łódzkie,Łowicki,Witoszewo,Hondminie,Bylejaka,8,6,04-089
+21358629752,Bobo,Ahmed,Kaka,9/12/1969,Polska,mazowieckie,piastowski,Piastów,Piastów,Superowa,6,6,00-258
+69494213251,Boba,Mohammed,Kalka,9/22/1967,Polska,mazowieckie,piastowski,Piastów,Piastów,Supełoka,6,6,00-258
+60414913963,Jarzęcka,Huberta,Bożena,1/9/1960,Polska,Łódzkie,makowiecki,Maków Mazowiecki,Maków Mazowiecki,Baranowska,79,,08-956
+60414712963,Janlęcka,Edeltrauda,Bożena,1/7/1960,Polska,Mazowieckie,mąkowski,Mąków,Mąków,Galanowska,796,,04-689
+56111221370,Jarzęcki,Grzegorz,Grzegorz,11/12/1956,Polska,Łódzkie,makowiecki,Maków Mazowiecki,Maków Mazowiecki,Baranowska,79,,08-956
+09444381166,Wientzkowitz,,Edeltraud,4/23/1909,Niemcy,,,,Muenchen,Elektrischegeschirrspuellmachinestrasse,893,77,3730276
+73414704378,Cudna,Dora,Dorota,10/28/2018,Polska,Mazowieckie,pruszkowski,Pruszków,Pruszków,Cudna,1,,00-700
+74414702387,Cudwa,Magdalena,Dorota,11/17/1974,Polska,Mazowieckie,pruszkowski,Pruszków,Pruszków,Ludna,1,,00-900
+71034760713,Cudny,Marek,Fircyk,3/17/1971,Polska,Mazowieckie,pruszkowski,Pruszków,Pruszków,Cudna,1,,00-700
+71041760718,Ludwy,Henryk,Fircyk,4/17/1971,Polska,Mazowieckie,pruszkowski,Pruszków,Pruszków,Ludna,1,,00-900
+71444760718,Ludwy,Henryk,Fircyk,4/17/1971,Polska,Mazowieckie,pruszkowski,Pruszków,Pruszków,Ludna,1,,00-900
+12395578910,Janusz,Euzebiusz,Kowal,12/21/2001,Polska,mazowieckie,legionowski,legionowo,legionowo,warszawska,17,55,05-587
+01424578920,Brajan,Janusz,Monalc,12/21/1978,Polska,warmińsko-mazurskie,iławski,Zalewo,Boreczno,,31,4,45-357
+02310154321,Hanna,Wiganna,Myśliwska,1/1/2002,Polska,warmińsko-mazurskie,ostródzki,Miłomłyn,Mozgowo,,12,,32-587
+02444143510,Magdalena,,Tańska,1/1/2002,Polska,świętokrzyskie,ostrowiecki,Ćmielów,Ćmielów,Kościelna,55,,98-25
+99454402596,Joanna,,Wrzesińska,24.05.1899,Polska,Wielkopolskie,poznański,Poznań,Poznań,Ćmielowska,66,5871c,61-657
+62454582510,Janina,,Fereńcowska,5/25/1962,Polska,Mazowieckie,m.st. Warszawa,Warszawa,Warszawa,Górna,5,116,01-487
+79305876192,Piotr,Tomasz,Sajór,10/5/1979,Polska,pomorskie,gdański,M.Gdańsk,Gdańsk,Wrocławska,21,,58-587
+00404115809,Mariusz,,Kurkowicki,10/1/2000,Polska,podkarpackie,rzeszowski,M.Rzeszów,Rzeszów,Czynu Rewolucyjnego,44,66,36-748
+21424306387,Bartłomiej,,Bozyk,12/23/1921,Belgia,,,,Hondurina,Bgerdund,158,8/A,556704
+23424300112,Tadeusz,,Kuźnicki,12/13/1923,Polska,małopolskie,wielicki,Wieliczka,Wieliczka,Kopalniana,31,4,01-493
+69494208794,Bronisław,,Klakowski,9/12/1969,Polska,mazowieckie,pruszkowski,Pruszków,Pruszków,Sołtana,8,987,04-349
+67494213251,Daniel,,Klaka,9/22/1967,Polska,mazowieckie,pruszkowski,Pruszków,Pruszków,Sułtańska,666,,04-349
+60414000112,Bożęcki,,Marcin,1/10/1960,Polska,podlaskie,lubartowski,Lubartów,Lubartów,Nowodworska,7,,22-574
+60404718963,Bożęcka,,Marzena,10/7/1960,Polska,zachodniopomorskie,koszaliński,Koszalin,Mielno,,1410,,77-852
+56424221330,Muszyński,Tomasz,Grzegorz,12/12/1956,Polska,Łódzkie,makowiecki,Maków Mazowiecki,Maków Mazowiecki,Lotniskowa,4,,08-956
+50414821390,Waliś,Robert,Piotr,11/18/1950,Polska,opolskie,opolski,M.Opole,Opole,Festiwalowa,854d/8,,77-317
+73414702317,Butna,Krystyna,Danuta,11/17/1973,Polska,Mazowieckie,otwocki,M.Otwock,Otwock,Kolorowa,4,33,05-971
+79491621100,Kuźnicki,Paweł,Wojciech,9/16/1979,Polska,Mazowieckie,m.st. Warszawa,m.st. Warszawa,Warszawa,Langiewicza,66,6,01-495
+78444160719,Lencewicz,Olgierd,Stanisław,4/1/1978,Polska,pomorskie,kiszewski,Stara Kiszewa,Warszawa,,157,,58-713
+06464266688,Lencewicz,Anna,Stanisława,6/2/2006,Polska,pomorskie,kiszewski,Stara Kiszewa,Warszawa,,157,,58-713
+09444388666,Lencewicz,Hanna,Stefania,4/23/2009,Niemcy,,,,Berlin,Hauptbahnhoffstrasse,19,39,546764

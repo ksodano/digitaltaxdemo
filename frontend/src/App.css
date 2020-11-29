@@ -1,0 +1,95 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.scan-page img {
+  width: 100%;
+}
+.scan-form {
+  position: relative;
+}
+
+.scan-form .scan-form-input {
+  position: absolute;
+}
+
+.form-loading {
+  text-align:center;
+  padding: 50px;
+  display: inline-block;
+  margin:auto;
+}
+.form-loading i {
+  margin-top: 30px;
+  font-size:3em;
+}
+
+.scan-control {
+  position:relative;
+}
+
+.scan-control button {
+  position: absolute;
+}
+
+.user-changed {
+  background: greenyellow !important;
+}
+
+.imported {
+  background: yellow;
+}
+.checkboxes-container {
+  background: white;
+}
+.checkboxes-container,
+.us-select-container
+{
+  position: absolute;
+}
+
+.form-checkbox {
+  /*position: absolute;*/
+}
+.us-select-container select {
+  width: 100%;
+  height: 100%;
+}
+
+.hello img {
+  max-width: 400px;
+}

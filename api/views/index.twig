@@ -1,0 +1,67 @@
+{% extends 'layout.twig' %}
+
+{% block body %}
+
+  <div style="display: inline-block">
+    <div id="container"></div>
+    <img src="/data/{{ file }}" />
+  </div>
+  <div style="display: inline-block">
+    <img src="/data/{{ file }}" />
+  </div>
+
+  <script type="module" src="/javascripts/loader.js"></script>
+  <style>
+    #container div {
+      position: absolute;
+      display: inline-block;
+      background: white;
+    }
+    [data-confidence="0"],
+    [data-confidence="1"],
+    [data-confidence="2"] {
+      border-bottom: 3px solid red;
+    }
+    [data-confidence="3"],
+    [data-confidence="4"],
+    [data-confidence="5"] {
+      border-bottom: 1px solid yellow;
+    }
+    [data-confidence="6"],
+    [data-confidence="7"],
+    [data-confidence="8"] {
+      border-bottom: 1px solid greenyellow;
+    }
+    [data-confidence="9"],
+    [data-confidence="10"] {
+      border-bottom: 1px solid green;
+    }
+    /*.indicator {*/
+    /*  background: rgba(1,1,0,0.2);*/
+    /*  position: absolute;*/
+    /*  display: inline-block;;*/
+    /*}*/
+    /*.indicator:hover{*/
+    /*  background: rgba(255,0,0,0.5)*/
+    /*}*/
+
+    .indicator {
+      font-size: 20px !important;
+      z-index: 999;
+      border: 4px dashed red;
+      border-radius: 10px;
+      padding: 2px;
+      font-weight: bold;
+
+    }
+    .box {
+      border: 10px dashed green;
+      z-index: 4;
+      background: transparent !important;
+    }
+    .word {
+      z-index: 10;
+      background: rgba(155,155,155,0.4);
+    }
+  </style>
+{% endblock %}

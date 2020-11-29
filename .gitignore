@@ -1,9 +1,4 @@
 api/public/data/
-!api/public/data/pit37_26-10.pdf*
-!api/public/data/pit-37_5.pdf*
-!api/public/data/pit-37_4.pdf*
-!api/public/data/PIT-37_6.pdf*
-!api/public/data/PIT-37_7.pdf*
 api/.idea
 api/node_modules
 api/package-lock.json
