@@ -1,0 +1,20 @@
+version: '3'
+services:
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    image: yagular/digital-tax-frontend:latest
+    ports:
+      - "3000:3000"
+  api:
+    build:
+      context: ./api
+      dockerfile: Dockerfile
+    image: yagular/digital-tax-api:latest
+    ports:
+      - "2000:2000"
+    environment:
+      - "GOOGLE_APPLICATION_CREDENTIALS=/home/y/a8f04.json"
+    volumes:
+      - "/home/y/a8f04.json:/home/y/a8f04.json"
